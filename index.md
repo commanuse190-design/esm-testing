@@ -25,7 +25,7 @@ It also provides administrative capabilities for managing products, orders, and 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 2.0
 
 ### Frontend
 - React / Next.js
