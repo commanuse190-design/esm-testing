@@ -5,7 +5,7 @@ Built with scalability, performance, and clean UX in mind.
 
 ---
 
-## 📌 Overview
+## 📌 Overview 1.0
 
 The **Chocolate Shop** project is a modern web-based platform that allows users to browse, purchase, and manage chocolate products online.  
 It also provides administrative capabilities for managing products, orders, and users.
