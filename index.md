@@ -12,7 +12,7 @@ It also provides administrative capabilities for managing products, orders, and 
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features 1.0
 
 - User authentication and authorization
 - Product listing and detailed product pages

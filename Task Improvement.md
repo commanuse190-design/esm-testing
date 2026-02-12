@@ -1,4 +1,4 @@
-## 🛠️ Task: [Short description of task]
+## 🛠️ Task: [Short description of task] - 1.0
 
 ### Description
 Explain what needs to be done.
